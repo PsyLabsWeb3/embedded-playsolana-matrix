@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/Embedded_logo.png" alt="Embedded Logo" width="400"/>
-  <img src="assets/CyberArena_logo.png" alt="Cyber Arena Logo" width="250"/>
+  <a target="_blank" href="https://www.embedded.games/"><img src="assets/Embedded_logo.png" alt="Embedded Logo" width="400"/></a>
+  <a href="#cyber-arena"><img src="assets/CyberArena_logo.png" alt="Cyber Arena Logo" width="250"/></a>
 </p>
 
 <h3 align="center">Embedded Games - Cyber Arena for PSG1: PlaySolana Matrix Hackathon Submission</h3>
 
 <p align="center">
-  <a href="https://www.embedded.games/">🌐 Official Site</a> •
+  <a target="_blank" href="https://www.embedded.games/">🌐 Official Site</a> •
   <a href="#project">Project</a> •
   <a href="#cyber-arena">Cyber Arena (the game)</a> •
   <a href="#blockchain-stack-mainnet">Blockchain Stack (Mainnet)</a> •
@@ -47,11 +47,11 @@ The Cyber Arena Unity project lives at:
 <a id="blockchain-stack-mainnet"></a>
 ## ⛓ Blockchain Stack (Mainnet)
 
-<div style="display:flex; gap:30px;">
-  <a href="https://solana.com/"><img src="assets/Solana_logo.png" alt="Solana Logo" width="100"/></a>
-  <a href="https://www.playsolana.com/"><img src="assets/PlaySolana_logo.png" alt="PlaySolana Logo" width="100"/></a>
-  <a href="https://jup.ag/"><img src="assets/Jupiter_logo.png" alt="Jupiter Logo" width="100"/></a>
-  <a href="https://www.anchor-lang.com/docs"><img src="assets/Anchor_logo.png" alt="Anchor Logo" width="100"/></a>
+<div>
+  <a target="_blank" href="https://solana.com/"><img src="assets/Solana_logo.png" alt="Solana Logo" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.playsolana.com/"><img src="assets/PlaySolana_logo.png" alt="PlaySolana Logo" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://jup.ag/"><img src="assets/Jupiter_logo.png" alt="Jupiter Logo" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.anchor-lang.com/docs"><img src="assets/Anchor_logo.png" alt="Anchor Logo" width="100"/></a>
 </div>
 <br>
 
