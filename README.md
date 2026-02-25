@@ -6,7 +6,7 @@
 <h3 align="center">Embedded Games - Cyber Arena for PSG1: PlaySolana Matrix Hackathon Submission</h3>
 
 <p align="center">
-  <a href="https://www.embedded.games">🌐 Official Site</a> •
+  <a href="https://www.embedded.games/">🌐 Official Site</a> •
   <a href="#project">Project</a> •
   <a href="#cyber-arena">Cyber Arena (the game)</a> •
   <a href="#blockchain-stack-mainnet">Blockchain Stack (Mainnet)</a> •
@@ -22,10 +22,12 @@ Welcome to Embedded Games, a competitive Web3 gaming platform built for the PSG1
 
 This repository is our official PlaySolana Matrix Hackathon submission, bundling the complete system through Git submodules.
 
+<a id="project"></a>
 ## 🚀 Project
 
 **Embedded Games** connects skill based competitive gameplay with real on-chain stakes using Solana infrastructure. This submission is live on Solana Mainnet and demonstrates full Web + Console crossplay with on-chain settlement.
 
+<a id="cyber-arena"></a>
 ## 🎮 Cyber Arena
 
 Cyber Arena is our PSG1 ready Unity title included in this bundle.
@@ -42,13 +44,16 @@ The Cyber Arena Unity project lives at:
 
 `Embedded-unity/quantum-platform-shooter-2d-3.0.4`
 
+<a id="blockchain-stack-mainnet"></a>
 ## ⛓ Blockchain Stack (Mainnet)
 
-<img src="assets/Solana_logo.png" alt="Solana Logo" width="100" style="margin-right: 30px"/>
-<img src="assets/PlaySolana_logo.png" alt="PlaySolana Logo" width="100" style="margin-right: 30px"/>
-<img src="assets/Jupiter_logo.png" alt="Jupiter Logo" width="100" style="margin-right: 30px"/>
-<img src="assets/Anchor_logo.png" alt="Anchor Logo" width="100"/>
-<br><br>
+<div style="display:flex; gap:30px;">
+  <a href="https://solana.com/"><img src="assets/Solana_logo.png" alt="Solana Logo" width="100"/></a>
+  <a href="https://www.playsolana.com/"><img src="assets/PlaySolana_logo.png" alt="PlaySolana Logo" width="100"/></a>
+  <a href="https://jup.ag/"><img src="assets/Jupiter_logo.png" alt="Jupiter Logo" width="100"/></a>
+  <a href="https://www.anchor-lang.com/docs"><img src="assets/Anchor_logo.png" alt="Anchor Logo" width="100"/></a>
+</div>
+<br>
 
 Embedded Games is not a prototype, it is already operating on Solana Mainnet.
 
@@ -69,6 +74,7 @@ Players can:
 - Have match outcomes recorded and settled on-chain
 - Track match history
 
+<a id="repository-architecture"></a>
 ## 🏗 Repository Architecture
 
 This repository is a hackathon judging bundle that ties together three core repositories as submodules:
@@ -79,6 +85,7 @@ This repository is a hackathon judging bundle that ties together three core repo
 
 All three are included as Git submodules.
 
+<a id="quick-start-for-judges"></a>
 ## ⚡ Quick Start for Judges
 
 Clone everything in one step:
@@ -99,6 +106,7 @@ If any submodule fails due to permissions or network issues, clone them manually
 git submodule update --init --recursive
 ```
 
+<a id="original-repositories"></a>
 ## 🔗 Original Repositories
 
 If needed, the submodules can be cloned directly from:
@@ -107,6 +115,7 @@ If needed, the submodules can be cloned directly from:
 - Backend:  https://github.com/PsyLabsWeb3/embedded-backend.git
 - Unity:    https://github.com/PsyLabsWeb3/Embedded-unity.git
 
+<a id="hackathon-highlights"></a>
 ## 🎯 Hackathon Highlights
 
 This submission demonstrates:
